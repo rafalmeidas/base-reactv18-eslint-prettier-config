@@ -1,19 +1,20 @@
 {
-    "recommendations": [
-        "dbaeumer.vscode-eslint",
-        "mhutchie.git-graph",
-        "donjayamanne.githistory",
-        "eamodio.gitlens",
-        "oderwat.indent-rainbow",
-        "pkief.material-icon-theme",
-        "omthemes.omthemes",
-        "ms-ceintl.vscode-language-pack-pt-br",
-        "2gua.rainbow-brackets",
-        "esbenp.prettier-vscode",
-        "natqe.reload",
-        "mtxr.sqltools",
-        "dsznajder.es7-react-js-snippets",
-        "editorconfig.editorconfig",
-        "naumovs.color-highlight"
-    ]
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "omthemes.omthemes",
+    "ms-ceintl.vscode-language-pack-pt-br",
+    "2gua.rainbow-brackets",
+    "esbenp.prettier-vscode",
+    "natqe.reload",
+    "mtxr.sqltools",
+    "dsznajder.es7-react-js-snippets",
+    "editorconfig.editorconfig",
+    "naumovs.color-highlight",
+    "mflo999.lintel"
+  ]
 }
